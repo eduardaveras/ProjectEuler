@@ -1,6 +1,3 @@
-from rsa import find_signature_hash
-
-
 first_term = 1
 second_term = 2
 resposta = 0
